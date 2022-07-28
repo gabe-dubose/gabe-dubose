@@ -1,3 +1,4 @@
 - Hello! My name is Gabe DuBose and I am currently a graduate student in bioinformatics at Georgia Tech.
-- My primary languages are Python, R, and Shell, and I have some minor experience in SQL.
+- My primary interests are in developing statistical approaches and software for bioinformatic and biological purposes.
+- I am also interested in developing educational resources.
 - You can contact me via gabe.dubose.sci@gmail.com.
