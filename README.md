@@ -1,4 +1,4 @@
-- Hello! My name is Gabe DuBose and I am currently a graduate student in bioinformatics at Georgia Tech.
-- My primary interests are in developing statistical approaches and software for bioinformatic and biological purposes.
-- I am also interested in developing educational resources.
-- You can contact me via gabe.dubose.sci@gmail.com.
+- Incoming PhD student in Population Biology, Ecology, and Evolution at Emory
+- Crappy software developer, but I enjoy doing
+- Mostly interested in developing computational and statistical approaches to help make biology a bit easier
+- I can be contacted at gabe.dubose.sci@gmail.com
