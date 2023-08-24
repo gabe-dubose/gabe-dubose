@@ -1,4 +1,4 @@
-- Incoming PhD student in Population Biology, Ecology, and Evolution at Emory
+- PhD student in Population Biology, Ecology, and Evolution at Emory
 - I'm mostly interested in developing computational and statistical approaches to help make biology a bit easier
 - Crappy software developer, but I enjoy doing it
 - I can be contacted at gabe.dubose.sci@gmail.com
